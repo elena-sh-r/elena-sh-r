@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hello & Nice to Meet You 👋
+
+I’ve always been someone who has both a creative and a logical side (literature and math were my favourite subjects at school). It was interesting for me to create flyers and layouts in photoshop and illustrator at my previous jobs. I also liked watching ready-made interactive maps in 2GIS with information entered by me into the database. When I discovered web developing, I realised it would be the perfect fit 🔥. I could use my creative skills to design 🖼 and my knowledge to code 👩‍💻. I enjoy bringing ideas to life in the browser 💻. I like to create digital products for both business and consumer use. I'm confident, naturally curious, and perpetually working on improving my skills. 
+
+At the moment, I am actively improving my development skills, in particular, working with the React.js 🌐 framework. To do this, I study at Yandex School of Data Analysis 👩‍🎓, watch technical videos on YouTube 🎞 and read technical literature 📚.
+
+In my spare time I enjoy travelling ✈️, reading, playing video games and learning something new. For last three years I've visited two countries and five cities in the country where i live now 🗺.
 
 <!--
 **elena-sh-r/elena-sh-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I’ve always been someone who has both a creative and a logical side (literature and math were my favourite subjects at school). It was interesting for me to create flyers and layouts in photoshop and illustrator at my previous jobs. I also liked watching ready-made interactive maps in 2GIS with information entered by me into the database. When I discovered web developing, I realised it would be the perfect fit. I could use my creative skills to design and my knowledge to code. I enjoy bringing ideas to life in the browser. I like to create digital products for both business and consumer use. I'm confident, naturally curious, and perpetually working on improving my skills. 
-
-At the moment, I am actively improving my development skills, in particular, working with the React.js framework. To do this, I study at Yandex School of Data Analysis, watch technical videos on YouTube and read technical literature.
-
-In my spare time I enjoy travelling, reading, playing video games and learning something new. For last three years I've visited two countries and five cities in the country where i live now.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
