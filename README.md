@@ -4,7 +4,7 @@ I’ve always been someone who has both a creative and a logical side (literatur
 
 At the moment, I am actively improving my development skills, in particular, working with the MERN Stack 🌐. To do this, I study at Yandex School of Data Analysis 👩‍🎓, watch technical videos on YouTube 🎞 and read technical literature 📚.
 
-In my spare time I enjoy travelling ✈️, reading, playing video games and learning something new. For last three years I've visited two countries and five cities in the country where i live now 🗺.
+In my spare time I enjoy travelling ✈️, reading, playing video games and learning something new. For last three years I've visited five countries 🗺.
 
 <!--
 **elena-sh-r/elena-sh-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
